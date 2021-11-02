@@ -39,4 +39,4 @@ Figura 15- Esquema Relacional
 
 ## Hospedagem
 
-Esse projeto após seu termino será lançado na plataforma de hospedagem Azure, e terá como endereço de URL:https://aspnet-7klx3wm5myj4e.azurewebsites.net/
+Esse projeto após seu termino será lançado na plataforma de hospedagem Azure, e terá como endereço de URL:https://guiabolso.herokuapp.com/
