@@ -42,6 +42,6 @@ Heurística (Nielsen)	Notas dos avaliadores	Média	Consenso	Considerações	Melh
 ### Avaliação Dinâmica 
 Atividade a ser realizada	Feedback do usuário	Considerações	Sugestão de melhorias
 
-![Guia de Bolso](https://github.com/ICEI-PUC-Minas-PMV-ADS/guia-de-bolso/blob/main/docs/img/2021-11-03(3).png) 
+![Guia de Bolso](2021-11-03(3).png) 
 
 </ol>
