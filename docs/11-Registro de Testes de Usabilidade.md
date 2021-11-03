@@ -2,13 +2,13 @@
 
 <ol>
 
-  Utilizando os 10 princípios das Heurísticas de Nielsen realizaremos os testes de usabilidade e após a conclusão do sistema e a realização desse teste teremos um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa, que nos dará uma ideia das melhorias necessárias ao sistema. 
+  Utilizando os dez princípios das Heurísticas de Nielsen realizaremos os testes de usabilidade e após a conclusão do sistema e a realização desse teste teremos um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa, que nos dará uma ideia das melhorias necessárias ao sistema. 
 Para  a elaboração do teste foi apresentado aos participantes o seguinte formulário o qual devera ser preenchido de acordo com sua percepção sobre as telas apresentadas. 
 
 ##  Formulário de teste de usabilidades
 
  ### Instruções: 
-* Cada  o usuário irá avaliar cada tela apresentada em 4 requisitos, visibilidade,  controle, eficiência e Erros, dando notas de 0 a 5, no nível de interferência desses requisito obtiveram na utilização do sistema.   
+* Cada  o usuário irá avaliar cada tela apresentada em quatro requisitos, visibilidade,  controle, eficiência e erros, dando notas de 0 a 5, no nível de interferência desses requisito obtiveram na utilização do sistema.   
 
 
 |Caso de uso|	Visibilidade|	Controle| Eficiência|	Erros|
