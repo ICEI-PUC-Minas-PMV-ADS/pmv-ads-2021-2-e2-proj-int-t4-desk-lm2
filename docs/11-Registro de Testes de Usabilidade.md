@@ -42,6 +42,6 @@ Heurística (Nielsen)	Notas dos avaliadores	Média	Consenso	Considerações	Melh
 ### Avaliação Dinâmica 
 Atividade a ser realizada	Feedback do usuário	Considerações	Sugestão de melhorias
 
-![Guia de Controle Financeiro - User Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/guia-de-bolso/blob/main/docs/img/2021-11-03(3).png) 
+![Guia de Controle Financeiro - User Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/2021-11-03%20(3).png?raw=true) 
 
 </ol>
