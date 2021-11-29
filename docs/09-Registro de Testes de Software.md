@@ -45,7 +45,7 @@ Partição de equivalência e condição limite:
 |Resultado Obtido||	
 |Avaliação||	
 
-|Caso de Teste	|CT-03 – CADASTRO RECEITAS, INVESTIMENTOS E DESPESAS|
+|Caso de Teste	|CT-03 – CADASTRO RECEITAS DESPESAS|
 |---|---|
 |Pré-condições	|Estar logado no sistema |
 ||1)	Acessar Tela Receita, Despesa ou Investimentos|
@@ -56,7 +56,7 @@ Partição de equivalência e condição limite:
 |Resultado Obtido	||
 |Avaliação	||
 
-|Caso de Teste	|CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS , INVESTIMENTOS E DESPESAS|
+|Caso de Teste	|CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS DESPESAS|
 |---|----|
 |Pré-condições	|Realizar cadastro de Pelo menos 01 tipo de despesa, receita e ou investimentos|
 |Procedimento	|1)	Acessar Tela Relatório.|
