@@ -49,23 +49,21 @@
 |CRITÉRIO DE ÊXITO	| ●	Após realização do login o site deve apresentar a opção meu perfil com o botão Alterar Conta e redirecionando para tela de alterar os dados. |
 |                 	| ●	Após realização do login o site deve apresentar a opção meu perfil com o botão Excluir Conta e redirecionando para tela de excluir os dados. |
 
-|CASO DE TESTE |	CT-03 – CRUD DE DE RECEITAS , INVESTIMENTOS E DESPESAS|
+|CASO DE TESTE |	CT-03 – CADASTRO RECEITAS E DESPESAS|
 |-------------|------------------------------------------------| 
 |REQUISITOS ASSOCIADOS|RF-005–RF-006–RF-007|
 |OBJETIVO DO TESTE    |Verificar se os botões e inserções de daos estão ocorrendo de forma correta e se as suas funcionalidades estão sendo exibidas|
 |      	              |1)	Logar no site|
 |                     |2)	Clicar no botão receitas|
 |                     |3)	Validar se ouve mudança no saldo atual|
-|Passos               |4)	Clicar no botão investimentos|
-|                     |5)	Validar se ouve mudança no saldo atual|
-|                     |6)	Clicar no botão despesas|
-|                     |7)	Validar se ouve mudança no saldo atual|                                                                                                      |
+|Passos               |4)	Validar se ouve mudança no saldo atual|
+|                     |5)	Clicar no botão despesas|
+|                     |6)	Validar se ouve mudança no saldo atual|                                                                                                      |
 |                 |	●	Após realizar login e clicar no botão despesas você deve adionar um valor para validar se ouve a inserção no saldo atual.       |
-|CRITÉRIO DE ÊXITO|	●	Após realizar login e clicar no botão investimentos você deve adionar um valor para validar se ouve a inserção no saldo atual.  |
-|                 |	●	Após realizar login e clicar no botão despesas você deve adionar um valor para validar se ouve a inserção no saldo atual.       |
+|CRITÉRIO DE ÊXITO|	●	Após realizar login e clicar no botão despesas você deve adionar um valor para validar se ouve a inserção no saldo atual.       |
+|||
 
-
-|CASO DE TESTE |	CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS , INVESTIMENTOS E DESPESAS|
+|CASO DE TESTE |	CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS DESPESAS|
 |-------------|------------------------------------------------| 
 |REQUISITOS ASSOCIADOS|RF-011–RF-012–RF-013|                    
 |OBJETIVO DO TESTE    |Verificar se os botões e graficos estão posicionados de forma correta e se as suas funcionalidades estão sendo exibidas|
@@ -73,8 +71,7 @@
 |Passos               |2)	Clicar no botão relatorios|
 |                     |3)	Validar se os graficos estão sendo exibidos|
 |                 |	●	Após realizar login e clicar no botão relatorios no site,validar se esta sendo exibido na tela o grafico de receitas.     |
-|CRITÉRIO DE ÊXITO|	●	Após realizar login e clicar no botão relatorios no site,validar se esta sendo exibido na tela o grafico de investimentos.|
-|                 |	●	Após realizar login e clicar no botão relatorios no site,validar se esta sendo exibido na tela o grafico de despesas.     |
+|CRITÉRIO DE ÊXITO|	●	Após realizar login e clicar no botão relatorios no site,validar se esta sendo exibido na tela o grafico de despesas.     |
 
  </ol>
 
