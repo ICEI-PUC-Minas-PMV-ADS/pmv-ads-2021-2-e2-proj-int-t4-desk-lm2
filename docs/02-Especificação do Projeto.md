@@ -45,8 +45,8 @@ Segundo Spandin e Quincoses (2015, p.02) o estudo da persona da marca como objet
  |RF-002| Fazer Login	       | ALTA|
  |RF-003|	Alterar dados da conta| ALTA|
  |RF-004|	Excluir conta| BAIXA|
- |RF-005|	CRUD* Receita|	ALTA|
- |RF-006|	CRUD* Despesa|	ALTA|
+ |RF-005| Receita|	ALTA|
+ |RF-006| Despesa|	ALTA|
  |RF-007|	Exibir Investimentos|	MÉDIA|
  |RF-008|	Exibir Receitas|	MÉDIA|
  |RF-009|	Exibir Despesas|	MÉDIA|
