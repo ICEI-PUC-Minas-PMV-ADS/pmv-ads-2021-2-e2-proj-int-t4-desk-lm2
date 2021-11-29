@@ -47,12 +47,11 @@ Segundo Spandin e Quincoses (2015, p.02) o estudo da persona da marca como objet
  |RF-004|	Excluir conta| BAIXA|
  |RF-005| Receita|	ALTA|
  |RF-006| Despesa|	ALTA|
- |RF-007|	Exibir Investimentos|	MÉDIA|
- |RF-008|	Exibir Receitas|	MÉDIA|
- |RF-009|	Exibir Despesas|	MÉDIA|
- |RF-010|	Gerar gráfico de receitas|	BAIXA|
- |RF-011|	Gerar gráfico de investimentos|	BAIXA|
- |RF-012|	Gerar gráfico de despesas|	BAIXA|
+ |RF-007|	Exibir Receitas|	MÉDIA|
+ |RF-008|	Exibir Despesas|	MÉDIA|
+ |RF-009|	Gerar gráfico de receitas|	BAIXA|
+ |RF-010|	Gerar gráfico de investimentos|	BAIXA|
+ |RF-011|	Gerar gráfico de despesas|	BAIXA|
  
  Fonte: Elaborado pelos autores (2021).
  
@@ -89,9 +88,8 @@ Tabela 4 – Restrições
 |--|----------|
 |01|	O projeto deverá ser entregue até o final do semestre|
 |02|	Não funciona sem acesso a internet|
-|03|	Focado para investidores e clientes de qualquer setor|
-|04|	Interação com o cliente**|
-|05|	Deverá ser gerenciável|
+|03|	Interação com o cliente**|
+|04|	Deverá ser gerenciável|
 
 Fonte: Elaborado pelos autores (2021).
 
