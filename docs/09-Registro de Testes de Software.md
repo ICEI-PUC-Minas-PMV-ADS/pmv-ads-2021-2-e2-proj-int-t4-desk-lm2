@@ -48,7 +48,7 @@ Partição de equivalência e condição limite:
 |Caso de Teste	|CT-03 – CADASTRO RECEITAS DESPESAS|
 |---|---|
 |Pré-condições	|Estar logado no sistema |
-||1)	Acessar Tela Receita, Despesa ou Investimentos|
+||1)	Acessar Tela Receita e Despesa|
 |Procedimento	|2)	 Digitar dados solicitados|
 ||3)	Selecionar opção “Cadastrar”|
 |Dados de entrada	|Valor(R$), Data(DD/MM/AAAA)|
@@ -56,9 +56,9 @@ Partição de equivalência e condição limite:
 |Resultado Obtido	||
 |Avaliação	||
 
-|Caso de Teste	|CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS DESPESAS|
+|Caso de Teste	|CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS E DESPESAS|
 |---|----|
-|Pré-condições	|Realizar cadastro de Pelo menos 01 tipo de despesa, receita e ou investimentos|
+|Pré-condições	|Realizar cadastro de Pelo menos 01 tipo de despesa, receita|
 |Procedimento	|1)	Acessar Tela Relatório.|
 ||2)	Selecionar opção “Gerar”|
 |Dados de entrada	|Valor(R$), Data(DD/MM/AAAA)|
