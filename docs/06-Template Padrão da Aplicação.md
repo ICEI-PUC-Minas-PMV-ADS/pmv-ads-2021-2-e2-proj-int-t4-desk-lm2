@@ -6,19 +6,49 @@
   ## Tela Inicial
   <ol>
   
- ![Guia de Controle Financeiro - Tela Inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/guia-de-bolso/blob/main/docs/img/inicial1.png)
+ ![Guia de Controle Financeiro - Tela Inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Deslogado.PNG)
  </ol>
  
  ## Tela Cadastro
   <ol>
     
- ![Guia de Controle Financeiro - Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/guia-de-bolso/blob/main/docs/img/cadastro1.png)
+ ![Guia de Controle Financeiro - Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Cadastro%20Conta.PNG)
  </ol>
   
- ## Tela Login
+## Tela Login
  <ol>
    
- ![Guia de Controle Financeiro - Tela Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/guia-de-bolso/blob/main/docs/img/login1.png)
+ ![Guia de Controle Financeiro - Tela Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Login1.PNG)
  </ol> 
   
+  ## Tela Alteração de Conta
+ <ol>
+   
+ ![Guia de Controle Financeiro - Tela Alteração de conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Altera%C3%A7%C3%A3o%20Conta.PNG)
+ </ol> 
+  
+  ## Tela Inicial-1
+ <ol>
+   
+ ![Guia de Controle Financeiro - Tela Inicial-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Logado.PNG)
+ </ol> 
+  
+   
+   ## Tela Cadastro Receita
+ <ol>
+   
+ ![Guia de Controle Financeiro - Tela Cadastro Receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Cadastro%20Receitas.PNG)
+ </ol> 
+  
+ ## Tela Cadastro Despesas
+ <ol>
+   
+ ![Guia de Controle Financeiro - Tela Cadastro Despesas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Cadastro%20Despesa.PNG)
+ </ol> 
+  
+ ## Tela Cadastro Relatorios
+ <ol>
+   
+ ![Guia de Controle Financeiro - Tela Relatorios](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/Relatorio.PNG)
+ </ol> 
 </ol>
