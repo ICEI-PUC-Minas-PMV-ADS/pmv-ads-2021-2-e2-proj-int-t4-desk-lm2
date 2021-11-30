@@ -40,13 +40,13 @@ Passos
 *	Sair do sistema
 </ol>
 
-#### Teste Excluir Usuario
+#### Teste Alterar Usuario
 <ol>
 	
 Passos
 * Fazer Login
 * Acessar Dados Usuario
-* Realizar a Exclusão do cadastro 
+* Realizar a Alteração do cadastro 
 * Sair do programa 
 </ol>
 
