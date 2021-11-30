@@ -20,7 +20,7 @@ Passos
 *	Acessar o sistema
 </ol>
 
-#### Teste de Inserir Despesas, Receitas e Investimento
+#### Teste de Inserir Despesas e Receitas
 <ol>
 	
 Passos:
