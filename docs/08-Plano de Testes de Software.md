@@ -16,7 +16,7 @@
 
  Os testes funcionais a serem realizados no site são descritos a seguir.
  
-## CASOS DE TESTES SUCESSO: CT-01 (RF-001), CT-02 (RF002,RF003,RF004), CT-03 (RF-005, RF-006, RF-007), CT-04 (RF-011,RF-012,RF-013)
+## CASOS DE TESTES SUCESSO: CT-01 (RF-001), CT-02 (RF002,RF003,RF004), CT-03 (RF-005, RF-006, RF-007), CT-04 (RF-011)
 <ol>
 
   | CASO DE TESTE| CT-01 – CADASTRO DE CONTA|
@@ -65,7 +65,7 @@
 
 |CASO DE TESTE |	CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS DESPESAS|
 |-------------|------------------------------------------------| 
-|REQUISITOS ASSOCIADOS|RF-011–RF-012–RF-013|                    
+|REQUISITOS ASSOCIADOS|RF-011 |                    
 |OBJETIVO DO TESTE    |Verificar se os botões e graficos estão posicionados de forma correta e se as suas funcionalidades estão sendo exibidas|
 |	                    |1)	Logar no site|
 |Passos               |2)	Clicar no botão relatorios|
