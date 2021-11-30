@@ -32,9 +32,11 @@ Partição de equivalência e condição limite:
 |             |2)	Selecionar opção “Cadastrar”|
 |Dados de entrada	|Senha válida (1234) e login válido(abcd)|
 |Resultado Esperado	|Cadastrar no sistema|
-|Resultado Obtido||	
-|Avaliação||	
-
+|Resultado Obtido|Sucesso|	
+|Avaliação|Teste realizado, automaricamente e manualmente resultado esperado obtido|	
+#### Teste Cadastro Conta   
+![Guia de Controle Financeiro - teste cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/testecadastro.png)
+    
 |Caso de Teste	|CT-02 – LOGIN , ALTERAÇÃO E EXCLUSÃO DE CONTA|
 |------|-------|
 |Pré-condições	|Estar cadastrado no sistema |
@@ -42,8 +44,12 @@ Partição de equivalência e condição limite:
 ||2)	Selecionar opção “Entar”|
 |Dados de entrada	|Senha válida (1234) e login válido (abcd)|
 |Resultado Esperado	|Entrar no sistema|
-|Resultado Obtido||	
-|Avaliação||	
+|Resultado Obtido| Sucesso|	
+|Avaliação|Teste realizado, automaricamente e manualmente resultado esperado obtido|	
+ #### Teste Login   
+![Guia de Controle Financeiro - teste Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/teste%20tela%20login.png)
+ #### Teste Alterar Conta   
+![Guia de Controle Financeiro - teste alterar conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/testealterarconta.png)
 
 |Caso de Teste	|CT-03 – CADASTRO RECEITAS DESPESAS|
 |---|---|
@@ -53,24 +59,26 @@ Partição de equivalência e condição limite:
 ||3)	Selecionar opção “Cadastrar”|
 |Dados de entrada	|Valor(R$), Data(DD/MM/AAAA)|
 |Resultado Esperado	|Cadastro Realizado|
-|Resultado Obtido	||
-|Avaliação	||
+|Resultado Obtido	|Sucesso|
+|Avaliação	|Teste realizado, automaricamente e manualmente resultado esperado obtido|
+ #### Teste Cadastro Conta   
+![Guia de Controle Financeiro - teste cadastro receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/teste%20cadastro%20receita.png)
 
-|Caso de Teste	|CT-04 – VISUALIZAÇÃO DOS GRAFICOS DE RECEITAS E DESPESAS|
+|Caso de Teste	|CT-04 – VISUALIZAÇÃO DOS RELATORIO DE RECEITAS E DESPESAS|
 |---|----|
 |Pré-condições	|Realizar cadastro de Pelo menos 01 tipo de despesa, receita|
 |Procedimento	|1)	Acessar Tela Relatório.|
 ||2)	Selecionar opção “Gerar”|
 |Dados de entrada	|Valor(R$), Data(DD/MM/AAAA)|
 |Resultado Esperado	|Gerar Relatório |
-|Resultado Obtido	||
-|Avaliação	||
+|Resultado Obtido	| Sucesso|
+|Avaliação	|Teste realizado, automaricamente e manualmente resultado esperado obtido|
+ #### Teste Gerar Relatorios   
+![Guia de Controle Financeiro - teste Relatorio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/testerelatorios.png)
 
 </ol>
 
-## Avaliação
-<ol>
-  
+ 
 
 
 </ol>  
