@@ -2,7 +2,7 @@
 
 # Link da Aplicação
 
-https://guiabolso.herokuapp.com/
+http://siteguiabolso.azurewebsites.net/
 
 ## Instalação do Site
 
