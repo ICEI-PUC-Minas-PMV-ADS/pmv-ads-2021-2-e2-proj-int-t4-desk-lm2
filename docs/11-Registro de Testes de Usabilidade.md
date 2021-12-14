@@ -79,4 +79,33 @@ Com a realização dos testes de usabilidade podemos concluir alguns aspectos de
 O sistema possui alguns problemas, os quais não poderão ser solucionados antes da implementação do mesmo, com isso será optado como modele de desenvolvimento do sistema o modelo incremental, o qual estaremos dinamicamente alterando o sistema a partir dos feedbacks de nossos usuários, a fim de está sempre melhorando o mesmo. 
 </ol>
 
+## Relatorios
+<ol>
+
+![Guia de Controle Financeiro - Grafico visibilidade_cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20cadastro%20visibilidade.png)
+	
+![Guia de Controle Financeiro - Grafico cadastro controle](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20cadastro%20controle.png)
+	
+![Guia de Controle Financeiro - grafico eficiencia](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20cadastro%20eficiencia.png)
+	   
+![Guia de Controle Financeiro - Grafico visibilidade login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20visibilidade.png)
+	
+![Guia de Controle Financeiro - grafico controle eficiencia login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20eficiencia.png)
+
+![Guia de Controle Financeiro - grafico controle login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20controle.png)
+	
+![Guia de Controle Financeiro - grafico visibilidade excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20visibilidade.png)
+	
+![Guia de Controle Financeiro - grafico eficiencia em excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20eficiencia.png)
+
+![Guia de Controle Financeiro - grafico controle excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20contrlole.png)
+	
+![Guia de Controle Financeiro - grafico visibilidade tela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20visibilidade.png)
+	
+![Guia de Controle Financeiro - grafico eficiencia cadadestro receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20eficiencia.png)
+	
+![Guia de Controle Financeiro - grafico controle tela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20controle.png)
+	
+	
+</ol>
 </ol>
