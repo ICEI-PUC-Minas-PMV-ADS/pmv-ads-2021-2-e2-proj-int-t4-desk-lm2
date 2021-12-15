@@ -101,6 +101,7 @@ Na tela de cadastro, a eficiência em realização do  cadastro foi data media d
 	
 ![Guia de Controle Financeiro - Grafico visibilidade login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20visibilidade.png)
 <ol>
+Neste gráfico foi apresentado o resultado do teste da visibilidade da tela de login o que demonstrou a necessidade de alterações a serem realizadas antes da entrega final do programa 
 	
 </ol>
 	
@@ -117,37 +118,46 @@ Neste gráfico os usuários de testes encontraram dificuldade baixa na realizaç
 	
 ![Guia de Controle Financeiro - grafico visibilidade excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20visibilidade.png)
 <ol>
+No gráfico acima obtidos resultado que demonstra na media geral um pequeno problema porem apesar durante o teste foi dado uma nota de nível médio o que se deve levar em consideração, com isso foi feito uma analise sobre o porque dessa nota o que foi constatado que em sistemas mobile, essa tela não fica muito visível para  algumas pessoas.
 
 </ol>
 	
 ![Guia de Controle Financeiro - grafico eficiencia em excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20eficiencia.png)
 <ol>
+Devido a falta de visibilidade conforme informado em gráfico anterior, e erro de comunicação entre o empregador do teste e a pessoa testada, houve uma nota não lançada e com isso foi determinado que a nota para tal seria a mais alta possível e com  isso obtivemos 20% de nota máxima demonstrando catástrofe no sistema o que foi levando em consideração na realização das mudanças necessárias para que tal erro seja solucionado. 
 	
 </ol>
 	
 ![Guia de Controle Financeiro - grafico controle excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20contrlole.png)
 <ol>
-	
+A realização de exclusão da conta foi encontrados pequenos erros os quais poderão ser solucionados de forma  mais tranquila já que não atrapalharam o desempenho do sistema. 
+
 </ol>	
 	
 ![Guia de Controle Financeiro - grafico visibilidade tela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20visibilidade.png)
 <ol>
-	
+Na tela de cadastro de receita foi encontra erros de nível médio por todos os participantes do teste o que foi corrigido, de forma a dá uma melhor visibilidade dessa tela. 
 </ol>	
 	
-![Guia de Controle Financeiro - grafico eficiencia cadadestro receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20eficiencia.png)
+![Guia de Controle Financeiro - grafico eficiencia cadastro receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20eficiencia.png)
 <ol>
+Assim como na tela de excluir conta 01 participante do teste, teve problemas ao realizar o mesmo e com isso a pior nota possível foi dada, tal problema foi corrigido para que o sistema seja eficaz em e fiel a sua proposta. 
 	
 </ol>	
 	
 ![Guia de Controle Financeiro - grafico controle tela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20controle.png)
 <ol>
-	
+Neste gráfico os participantes dos testes encontraram dificuldade baixa na realização do cadastro da recita em seu controles, porem devido ao nível não teria a principio a necessidade de reparação devido ao seu nível. 
 </ol>
-	
-Com a realização dos testes de usabilidade podemos concluir alguns aspectos de nosso programa da seguinte forma:
-O sistema possui alguns problemas, os quais não poderão ser solucionados antes da implementação do mesmo, com isso será optado como modele de desenvolvimento do sistema o modelo incremental, o qual estaremos dinamicamente alterando o sistema a partir dos feedbacks de nossos usuários, a fim de está sempre melhorando o mesmo. 
-	
+
+### Conclusão	
+<ol>	
+Com a realização dos testes de usabilidade podemos concluir alguns aspectos de nosso programa da seguinte forma.
+O sistema possui alguns problemas,  os mais graves em sua maioria, por erro de comunicação dos realizadores dos teste com os voluntários, e por problemas na visibilidade do sistema essa segunda já solucionado ela equipe de desenvolvimento. 
+Os demais problemas considerado de nível médio baixo foram solucionados de forma escalonar e mais teste serão realizados com indivíduos diferentes porem com as mesmas características dos que já realizaram os teste, porem devido a falta de tempo tais teste não chegaram a ser realizados.
+Contudo esse sistema continuara no modelo incremental, o qual estaremos dinamicamente alterando o sistema a partir dos feedbacks de nossos usuários, a fim de está sempre melhorando o mesmo.
+
+</ol>	
 	
 	
 </ol>
