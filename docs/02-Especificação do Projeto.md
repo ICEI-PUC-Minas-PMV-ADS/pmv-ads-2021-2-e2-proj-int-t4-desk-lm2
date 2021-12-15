@@ -50,8 +50,7 @@ Segundo Spandin e Quincoses (2015, p.02) o estudo da persona da marca como objet
  |RF-007|	Exibir Receitas|	MÉDIA|
  |RF-008|	Exibir Despesas|	MÉDIA|
  |RF-009|	Gerar gráfico de receitas|	BAIXA|
- |RF-010|	Gerar gráfico de investimentos|	BAIXA|
- |RF-011|	Gerar gráfico de despesas|	BAIXA|
+ |RF-010|	Gerar gráfico de despesas|	BAIXA|
  
  Fonte: Elaborado pelos autores (2021).
  
