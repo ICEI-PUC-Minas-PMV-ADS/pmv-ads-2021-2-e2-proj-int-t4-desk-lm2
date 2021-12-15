@@ -75,36 +75,78 @@ Heurística (Nielsen)	Notas dos avaliadores	Média	Consenso	Considerações	Melh
 	
 * Devido a falta de respostas em alguns formulários aonde os demais participantes tiveram respostas, foi definido para que a media fosse estabelecia , que a resposta do questionário seria a pior nota possível ou seja nota 5.
  	
-Com a realização dos testes de usabilidade podemos concluir alguns aspectos de nosso programa da seguinte forma:
-O sistema possui alguns problemas, os quais não poderão ser solucionados antes da implementação do mesmo, com isso será optado como modele de desenvolvimento do sistema o modelo incremental, o qual estaremos dinamicamente alterando o sistema a partir dos feedbacks de nossos usuários, a fim de está sempre melhorando o mesmo. 
 </ol>
 
 ## Relatorios
 <ol>
-
+	
+Após a realização dos teste foram criados os seguintes gráficos para ilustrar os resultados: 
+	
 ![Guia de Controle Financeiro - Grafico visibilidade_cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20cadastro%20visibilidade.png)
+<ol>	
+Visibilidade das telas de cadastro, após a avaliação do sistema pelos voluntario obtivemos uma media de 2,4 na visibilidade da tela de cadastro uma nota que constata um pequeno problema que trabalhamos para melhorar, mesmo não sendo de total prioridade.
+</ol>	
 	
 ![Guia de Controle Financeiro - Grafico cadastro controle](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20cadastro%20controle.png)
+<ol>
+A media para a avaliação dessa tela foi de 1,4 mostrando pequenos problemas os quais trabalhamos e já foram feitos ajustes para melhoria do sistema. 	
+</ol>
 	
 ![Guia de Controle Financeiro - grafico eficiencia](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20cadastro%20eficiencia.png)
-	   
+<ol>
+	
+Na tela de cadastro, a eficiência em realização do  cadastro foi data media de 1,6 demonstrando a necessidade de pequenas alterações no sistema, porem tais alterações não são de grande ou media prioridade oque será realizado após a implementação caso seja realmente necessário  
+	
+</ol>	
+	
 ![Guia de Controle Financeiro - Grafico visibilidade login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20visibilidade.png)
+<ol>
+	
+</ol>
 	
 ![Guia de Controle Financeiro - grafico controle eficiencia login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20eficiencia.png)
-
+<ol>
+Nesse teste tivemos uma ineficiência de avaliação em algumas avaliações por esse erro de comunicação entre o realizador dos testes e o voluntario foi definido que a nota para quando houvesse essa falta de comunicação seria a pior possível, ou seja, nota 5, e com essa nota obtivemos uma media nos teste de 1,8, demonstrando, a necessidade não só de realizar um ajuste no sistema como na comunicação para que todos entendam e consigam trabalhar com o sistema de maneira mas eficaz possível.  	
+</ol>
+	
 ![Guia de Controle Financeiro - grafico controle login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20controle.png)
+<ol>
+	
+</ol>	
 	
 ![Guia de Controle Financeiro - grafico visibilidade excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20visibilidade.png)
+<ol>
+
+</ol>
 	
 ![Guia de Controle Financeiro - grafico eficiencia em excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20eficiencia.png)
-
+<ol>
+	
+</ol>
+	
 ![Guia de Controle Financeiro - grafico controle excluir conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20excluir%20conta%20contrlole.png)
+<ol>
+	
+</ol>	
 	
 ![Guia de Controle Financeiro - grafico visibilidade tela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20visibilidade.png)
+<ol>
+	
+</ol>	
 	
 ![Guia de Controle Financeiro - grafico eficiencia cadadestro receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20eficiencia.png)
+<ol>
+	
+</ol>	
 	
 ![Guia de Controle Financeiro - grafico controle tela receita](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20cadastro%20receita%20controle.png)
+<ol>
+	
+</ol>
+	
+Com a realização dos testes de usabilidade podemos concluir alguns aspectos de nosso programa da seguinte forma:
+O sistema possui alguns problemas, os quais não poderão ser solucionados antes da implementação do mesmo, com isso será optado como modele de desenvolvimento do sistema o modelo incremental, o qual estaremos dinamicamente alterando o sistema a partir dos feedbacks de nossos usuários, a fim de está sempre melhorando o mesmo. 
+	
 	
 	
 </ol>
