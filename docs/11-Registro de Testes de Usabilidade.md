@@ -6,7 +6,7 @@
 Para  a elaboração do teste foi apresentado aos participantes o seguinte formulário o qual devera ser preenchido de acordo com sua percepção sobre as telas apresentadas. 
 
 ##  Formulário de teste de usabilidades
-
+Para o teste foi solicita a 5 pessoas que respondessem o questionário a baixo da forma que melhor entenderem sobre os questionamentos, com isso obtivemos uma amostra básica para a realização dos teste de usabilidade 
  ### Instruções: 
 
 Durante este teste de usabilidade, concordo em participar de uma sessão online usando meu computador e telefone. Durante a sessão, serei entrevistado sobre o site, solicitado a encontrar informações ou concluir tarefas usando o site e a preencher um questionário online sobre a experiência.
