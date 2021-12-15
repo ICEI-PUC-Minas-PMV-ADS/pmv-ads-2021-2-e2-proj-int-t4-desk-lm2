@@ -111,6 +111,7 @@ Nesse teste tivemos uma ineficiência de avaliação em algumas avaliações por
 	
 ![Guia de Controle Financeiro - grafico controle login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/grafico%20tela%20login%20controle.png)
 <ol>
+Neste gráfico os usuários de testes encontraram dificuldade baixa na realização de seu login no sistema dificuldade essa que não teria necessidade de reparação devido ao seu nível. 
 	
 </ol>	
 	
