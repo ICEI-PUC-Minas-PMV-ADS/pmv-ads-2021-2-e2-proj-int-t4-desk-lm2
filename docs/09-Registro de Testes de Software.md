@@ -77,9 +77,17 @@ Partição de equivalência e condição limite:
 ![Guia de Controle Financeiro - teste Relatorio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/docs/img/testerelatorios.png)
 
 </ol>
-
- 
-
+  
+### Testes automatizado
+<ol>
+  
+ #### Teste Sucesso  
+![Guia de Controle Financeiro - teste Sucesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/src/teste%20sucesso.mp4)
+     
+ #### Teste Insucesso   
+![Guia de Controle Financeiro - teste insucesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t4-desk-lm2/blob/main/src/teste%20insucesso.mp4)
+  
+</ol>
 
 </ol>  
 </ol>
