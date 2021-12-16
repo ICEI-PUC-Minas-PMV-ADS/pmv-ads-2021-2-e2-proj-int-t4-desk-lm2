@@ -40,53 +40,6 @@ Após toda execução: sucesso ou falha, é gerado um relatório com cada passo 
 Obs: a imagens possuem path dinâmico, basta zipar a pasta do relatório e enviar para o destinatário ou subir em algum bucket AWS para acessar que todos os dados estarão consistentes. 
 
 
-**Padrões por tipo de componente**
 
-* Pastas: começam sempre com letra minúscula. Ex: `pages, dbsteps, basess`
-* Classes: começam sempre com letra maiúscula. Ex: `LoginPage, LoginTests`
-* Arquivos: começam sempre com letra minúscula. Ex: `report.png`
-* Métodos: começam sempre com letra minúscula. Ex: `efetuarLoginComSucesso()`
-* Variáveis: começam sempre com letra minúscula. Ex: `botaoXPTO`
-* Objetos: começam sempre com letra minúscula. Ex: `loginPage`
-
-
-**Padrão de siglas e palavras com uma letra**
-
-No caso de siglas, manter o padrão da primeira letra, de acordo com o padrão do tipo que será nomeado, ex:
-
-```
-cpfField (variável)
-preencherCPF() (método)
-```
-
-No caso de palavras com uma letra, as duas devem ser escritas juntas de acordo com o padrão do tipo que será nomeado, ex:`retornaSeValorEOEsperado()`
-
-
-
-**Padrões de escrita: Classes e Arquivos**
-
-Nomes de classes e arquivos devem terminar com o tipo de conteúdo que representam, em inglês, ex:
-
-```
-LoginPage (classe de PageObjects)
-LoginTests (classe de testes)
-LoginTestData.csv (planilha de dados)
-```
-
-OBS: Atenção ao plural e singular! Se a classe contém um conjunto do tipo que representa, esta deve ser escrita no plural, caso seja uma entidade, deve ser escrita no singular.
-
-
-**Padrões de escrita: Geral**
-
-Nunca utilizar acentos, espaços, caracteres especiais e “ç” para denominar pastas, classes, métodos, variáveis, objetos e arquivos.
-
-**Padrões de escrita: Objetos**
-
-Nomes dos objetos devem ser exatamente os mesmos nomes de suas classes, iniciando com letra minúscula, ex:
-
-```
-LoginPage (classe) loginPage (objeto)
-LoginFlows (classe) loginFlows (objeto)
-```
 
 
