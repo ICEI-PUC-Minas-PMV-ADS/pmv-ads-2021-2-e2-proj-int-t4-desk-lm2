@@ -25,7 +25,7 @@
 *  Facilitar a manutenção dos testes (refatoração).
 *  Tornar o fluxo do teste o mais legível possível (fácil entendimento do que está sendo testado).
 
-**Arquitetura padrão Base2**
+**Arquitetura padrão**
 
 Para facilitar o entendimento da arquitetura do projeto de testes automatizados, foi criado um fluxograma baseado nas features principais que envolvam a arquitetura conforme imagem abaixo:
 
