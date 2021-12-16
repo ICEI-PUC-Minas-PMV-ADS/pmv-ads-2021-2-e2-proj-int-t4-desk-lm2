@@ -25,14 +25,6 @@
 *  Facilitar a manutenção dos testes (refatoração).
 *  Tornar o fluxo do teste o mais legível possível (fácil entendimento do que está sendo testado).
 
-**Arquitetura padrão**
-
-Para facilitar o entendimento da arquitetura do projeto de testes automatizados, foi criado um fluxograma baseado nas features principais que envolvam a arquitetura conforme imagem abaixo:
-
-![alt text](https://i.imgur.com/wexOWJF.png)
-
-
-
 **Relatório de testes**
 
 Após toda execução: sucesso ou falha, é gerado um relatório com cada passo realizado do teste. Está disponível na pasta do projeto "target/reports". Existe a possibilidade de tirar screenshots em cada passo ou somente em caso de falha. Verifique o arquivo globalParameteres.properties e coloque true ou false no parâmetro: get.screenshot.for.each.step.
